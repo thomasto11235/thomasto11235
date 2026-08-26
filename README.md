@@ -1,6 +1,6 @@
 # Thomas Tô
 
-Student &nbsp;·&nbsp; T-SQL &nbsp;·&nbsp; SQL Server
+T-SQL &nbsp;·&nbsp; SQL Server
 
 I use this profile to document my solutions to SQL challenges, written in T-SQL using SQL Server dialect.
 ---
@@ -27,9 +27,7 @@ I use this profile to document my solutions to SQL challenges, written in T-SQL 
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasto11235&show_icons=true&theme=graywhite&hide_border=true&title_color=24292f&text_color=57606a&icon_color=57606a&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasto11235&layout=compact&theme=graywhite&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff)
+![Contribution Graph](https://ghchart.rshah.org/555555/thomasto11235)
 
 ---
 
