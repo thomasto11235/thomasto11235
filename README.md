@@ -19,11 +19,11 @@ T-SQL &nbsp;·&nbsp; SQL Server
 
 | # | Case Study | Link |
 |---|---|---|
-| 1 | Danny's Diner | [View Solution](#) |
-| 2 | Pizza Runner | [View Solution](#) |
-| 3 | Foodie-Fi | [View Solution](#) |
-| 4 | Data Bank | [View Solution](#) |
-| 5 | Data Mart | [View Solution](#) |
+| 1 | Danny's Diner | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-1-dannys-diner) |
+| 2 | Pizza Runner | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-2-pizza-runner) |
+| 3 | Foodie-Fi | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-3-foodie-fi) |
+| 4 | Data Bank | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-4-data-bank) |
+| 5 | Data Mart | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-5-data-mart) |
 | 6 | Clique Bait | [View Solution](#) |
 
 ---
