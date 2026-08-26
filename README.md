@@ -1,4 +1,4 @@
-![Banner](Hello.png)
+![Banner](Banner.png)
 
 # Thomas Tô
 
