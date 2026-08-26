@@ -2,6 +2,7 @@
 
 Student &nbsp;·&nbsp; T-SQL &nbsp;·&nbsp; SQL Server
 
+I use this profile to document my solutions to SQL challenges, written in T-SQL using SQL Server dialect.
 ---
 
 ## Stack
