@@ -24,7 +24,7 @@ T-SQL &nbsp;·&nbsp; SQL Server
 | 3 | Foodie-Fi | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-3-foodie-fi) |
 | 4 | Data Bank | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-4-data-bank) |
 | 5 | Data Mart | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-5-data-mart) |
-| 6 | Clique Bait | Coming soon! |
+| 6 | Clique Bait | [View Solution](https://github.com/thomasto11235/8-week-sql-challenge/tree/7db1b17e731f1318cf273b6930e4e96593bb5663/case-study-6-clique-bait) |
 
 ---
 
